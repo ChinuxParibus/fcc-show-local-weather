@@ -1,0 +1,14 @@
+.hero {
+  background: url('https://www.thewallpapers.org/photo/22266/sky.jpg') center no-repeat;
+}
+.container {
+	border: 1px solid white;
+	border-radius: 8px;
+	padding: 4em 0;
+}
+.wi{
+	font-size: 48px;
+}
+#loc, #temp, #clim {
+	font-weight: bold;
+}
